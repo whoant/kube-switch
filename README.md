@@ -3,6 +3,5 @@
 Small tool to switch between kubernetes context
 
 ### Installation
-```sh
-
-
+1. Download the latest release and unzip file
+2. Move the kube-switch binary to a file location on your system PATH.
